@@ -1,7 +1,7 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:muhammad_nabi/pages/navigation/fovorites_page.dart';
-import 'package:muhammad_nabi/pages/navigation/main_page.dart';
+import 'package:muhammad_nabi/screens/main_page.dart';
 import 'package:muhammad_nabi/pages/navigation/profile_page.dart';
 import 'package:muhammad_nabi/pages/navigation/settingis_page.dart';
 

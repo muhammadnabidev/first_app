@@ -52,7 +52,7 @@ class MainPage extends StatelessWidget {
         body: Column(
       children: [
         // instagram stories
-        Container(
+        SizedBox(
           height: 150,
           child: ListView.builder(
               itemCount: _stories.length,
